@@ -7,9 +7,4 @@ hamburgerBtn.forEach(btn => {
     })
 });
 
-const text = document.querySelectorAll('navigationLinks');
-text.forEach(btn => {
-    btn.addEventListener('click',() => {
-        btn.classList.toggle('active');
-    })
-})
+
