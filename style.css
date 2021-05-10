@@ -3,6 +3,9 @@ body{
     padding:0;
     background: #333;
     font-family: 'Poppins';
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 h1{
@@ -50,6 +53,17 @@ h1{
 .lignes:nth-child(3){
     top: 36px;
 }
+
+.bodyContent{
+    flex:10;
+}
+
+footer{
+    background-color: red;
+    flex : 1;
+}
+
+
 
 /*Animation*/
 
