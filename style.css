@@ -16,6 +16,9 @@ h1{
     margin-top:70px;   
 }
 
+.introduction{
+    color: white;
+}
 .bodyContent{
     flex:100;
 }
