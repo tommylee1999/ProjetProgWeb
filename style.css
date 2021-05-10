@@ -15,6 +15,34 @@ h1{
     margin-bottom: 90px;
     margin-top:70px;   
 }
+
+.bodyContent{
+    flex:100;
+}
+
+footer{
+    background-color: red;
+    flex : 5;
+}
+
+header{
+    background-color: red;
+    flex:5;
+}
+
+
+/*Animation
+
+.hamburgerMenu.active .lines:nth-child(1){
+    opacity: 0;
+    transform: translateX(-100%);
+}
+
+.hamburgerMenu.active .lines:nth-child(3){
+    opacity: 0;
+    transform: translateX(100%);
+}
+
 .box{
     height: 200px;
     width: 200px;
@@ -35,7 +63,7 @@ h1{
     position: relative;
 }
 
-.lignes{
+.lines{
     width: 100%;
     height: 6px;
     border-radius: 5px;
@@ -44,35 +72,13 @@ h1{
     transition: all .5s ease-in-out;
 }
 
-.lignes:nth-child(1){
+.lines:nth-child(1){
     top: 0px;
 }
-.lignes:nth-child(2){
+.lines:nth-child(2){
     top: 18px;
 }
-.lignes:nth-child(3){
+.lines:nth-child(3){
     top: 36px;
 }
-
-.bodyContent{
-    flex:10;
-}
-
-footer{
-    background-color: red;
-    flex : 1;
-}
-
-
-
-/*Animation*/
-
-.hamburgerMenu.active .lignes:nth-child(1){
-    opacity: 0;
-    transform: translateX(-100%);
-}
-
-.hamburgerMenu.active .lignes:nth-child(3){
-    opacity: 0;
-    transform: translateX(100%);
-}
+*/

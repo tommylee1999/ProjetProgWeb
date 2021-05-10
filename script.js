@@ -1,4 +1,4 @@
-/*Animation hamburgerMenu*/
+/*Animation hamburgerMenu
 
 const hamburgerBtn = document.querySelectorAll('.hamburgerMenu');
 hamburgerBtn.forEach(btn => {
@@ -6,5 +6,5 @@ hamburgerBtn.forEach(btn => {
         btn.classList.toggle('active');
     })
 });
-
+*/
 
