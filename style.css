@@ -20,6 +20,7 @@ h1{
 .introduction{
     color: #353535;
 }
+
 .bodyContent{
     flex:100;
 }
@@ -37,7 +38,6 @@ header{
     top:0;
     color: white;
 }
-
 
 /*Animation
 
