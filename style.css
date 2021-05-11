@@ -32,6 +32,7 @@ h1{
 }
 
 #header{
+    align-items : center;
     background-color: #353535;
     height : 5vh;
     position: sticky;
@@ -42,7 +43,7 @@ h1{
 
 .footerLink, .headerLink{
     flex: 1;
-    width: 100%;
+    width : 100%;
     text-align: center;
     
     /*border-left-color: white;
