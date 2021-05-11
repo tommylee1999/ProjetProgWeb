@@ -56,12 +56,15 @@ h1{
 .link{
     color: white;
     flex: 1;
+    text-decoration: none;
 }
 
 .introduction{
     font-size: medium;
     text-align: center;
 }
+
+
 
 /*Animation
 
