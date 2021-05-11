@@ -27,14 +27,15 @@ h1{
 
 #footer{
     background-color: #353535;
-    height : 5vh;
+    height : 7vh;
     color: white;
+    display: flex;
 }
 
 #header{
     align-items : center;
     background-color: #353535;
-    height : 5vh;
+    height : 7vh;
     position: sticky;
     top:0;
     color: white;
@@ -52,10 +53,14 @@ h1{
 }
 
 
-
 .link{
     color: white;
     flex: 1;
+}
+
+.introduction{
+    font-size: medium;
+    text-align: center;
 }
 
 /*Animation
