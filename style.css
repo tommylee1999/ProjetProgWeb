@@ -55,6 +55,7 @@ h1{
 .efrei_logo{
     width: 100px;
     height: 100px;
+    flex:1;
 }
 
 .footerLink{
@@ -92,5 +93,10 @@ h1{
 
 .introduction{
     font-size: medium;
+    text-align: center;
+}
+
+.headerLink{
+    width: 100%;
     text-align: center;
 }
