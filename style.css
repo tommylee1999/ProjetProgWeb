@@ -27,12 +27,7 @@ body{
 
 .title{
     margin: 1%;
-}
-
-.introduction{
-    color: #353535;
-    margin-top: 1%;
-    margin: 1%;
+    color: #3C6E71;   
 }
 
 #content{
@@ -100,6 +95,15 @@ body{
 .introduction{
     font-size: medium;
     text-align: center;
+    color: #353535;
+    margin: 1%;
+}
+
+.paragraphe{
+    text-align: justify;
+    color: #353535;
+    margin: 1%;
+    font-size: medium;
 }
 
 .headerLink{
