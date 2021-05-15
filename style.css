@@ -19,14 +19,20 @@ body{
 	flex-direction:column;
 }
 
-h1{
+.titleHeader{
     color: white;
     text-align: center;
     background-color: #3C6E71;   
 }
 
+.title{
+    margin: 1%;
+}
+
 .introduction{
     color: #353535;
+    margin-top: 1%;
+    margin: 1%;
 }
 
 #content{
