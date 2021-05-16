@@ -117,3 +117,15 @@ body{
     display: flex;
     flex-direction: column;
 }
+
+.videoBox{
+    display :flex;
+    margin: 2vh;
+}
+
+.video{
+    margin-left: auto;
+    margin-right: auto;
+    width: 52vw;
+    height: 50vh;
+}
