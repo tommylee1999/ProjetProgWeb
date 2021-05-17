@@ -32,7 +32,7 @@ body{
 
 #content{
     flex-grow:1;
-    background: linear-gradient(#353535 8vh, #3C6E71 16vh, white 70vh);
+    /*background: linear-gradient(#353535 8vh, #3C6E71 16vh, white 70vh);*/
     
 }
 
