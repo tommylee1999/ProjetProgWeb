@@ -32,6 +32,8 @@ body{
 
 #content{
     flex-grow:1;
+    background: linear-gradient(#353535 8vh, #3C6E71 16vh, white 70vh);
+    
 }
 
 #footer{
@@ -82,12 +84,21 @@ body{
     transform-origin: 100% 0;
     transform: scaleX(0);
     transition: transform 0.6s;
-  }
+}
   
-  .link:hover::before {
+.link:hover::before {
     transform-origin: 0 0;
     transform: scaleX(1);
-  }
+}
+
+#introductionText{
+    position:absolute;
+    align-self: center;
+    height: 30vh;
+    width: 40vh;
+    
+}
+
 
 .introduction{
     font-size: medium;
